@@ -9,4 +9,9 @@ int main() {
 
     cout << "Masukkan lebar = ";
     cin >> l;
+
+    luas = p * l;
+
+    cout << "Hasilnya = " << luas << endl;
+    cout << "Terimakasih";
 }
